@@ -7,7 +7,7 @@ Welcome to the **Tic-Tac-Toe AI** project! This Python-based application lets yo
 - **Single-player mode**: Play against an AI that always makes the optimal move.
 - **Unbeatable AI**: Uses the Minimax algorithm, making it impossible to beat the AI when it plays first or second.
 - **Simple and intuitive interface**: A text-based interface with a 3x3 grid, where players input their moves by selecting grid positions.
-- **Auto-reset**: The game resets the board after each round.
+
 
 ## Table of Contents
 
