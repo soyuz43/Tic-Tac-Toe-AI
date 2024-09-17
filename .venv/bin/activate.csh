@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/home/copin43/workspace/Second-Run/second-run-python/django/personal/tictactoe-ai/.venv"
+setenv VIRTUAL_ENV "/home/copin43/RIG/Forge/personalWorkspace/tictactoe-ai/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
