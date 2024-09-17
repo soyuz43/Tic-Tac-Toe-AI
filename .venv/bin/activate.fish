@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/copin43/workspace/Second-Run/second-run-python/django/personal/tictactoe-ai/.venv"
+set -gx VIRTUAL_ENV "/home/copin43/RIG/Forge/personalWorkspace/tictactoe-ai/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
